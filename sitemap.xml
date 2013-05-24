@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -56,7 +56,37 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/objects/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/00/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/05/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/09/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/0a/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/0c/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/0d/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -65,8 +95,33 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/10/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/11/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/15/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/17/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/1f/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/20/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -80,13 +135,83 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/25/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/26/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/28/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/29/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/2b/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/31/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/32/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/33/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/35/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/3a/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/3b/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/3f/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/objects/41/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/42/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/43/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/44/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -95,8 +220,98 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/47/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/4b/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/4c/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/4e/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/4f/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/50/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/55/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/59/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/61/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/62/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/63/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/66/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/67/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/69/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/6a/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/6b/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/6d/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/6f/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/71/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -105,8 +320,23 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/75/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/76/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/77/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/7b/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -115,13 +345,38 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/80/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/85/</loc>
   <lastmod>2013-04-19</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/86/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/87/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/89/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/8a/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/8e/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +386,17 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/objects/91/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/96/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/99/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -140,8 +405,73 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/9e/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/9f/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/a1/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/a6/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/a8/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/aa/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/ad/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/b1/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/b6/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/b8/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/b9/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/ba/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/bc/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/be/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -155,6 +485,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/c9/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/cc/</loc>
   <lastmod>2013-04-19</lastmod>
   <priority>0.5000</priority>
@@ -165,8 +500,18 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/d0/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/d1/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/d2/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -175,8 +520,48 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/.git/objects/d9/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/da/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/.git/objects/db/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/dc/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/dd/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/de/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/df/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/e0/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/e1/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -186,12 +571,52 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/objects/e9/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/ec/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/ef/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/f1/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/f2/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/f3/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/f4/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/f5/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/objects/fe/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/.git/objects/ff/</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -211,7 +636,7 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/refs/heads/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -221,12 +646,22 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/refs/remotes/origin/</loc>
-  <lastmod>2013-04-19</lastmod>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/.git/refs/tags/</loc>
   <lastmod>2013-04-19</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/2013/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/2013/index.html</loc>
+  <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -265,6 +700,106 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sophAi.github.com/assets/reveal/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/css/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/css/print/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/css/theme/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/css/theme/source/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/css/theme/template/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/js/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/lib/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/lib/css/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/lib/font/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/lib/js/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/highlight/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/markdown/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/notes-server/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/notes/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/postmessage/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/print-pdf/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/remotes/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/assets/reveal/plugin/zoom-js/</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sophAi.github.com/categories/</loc>
   <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
@@ -291,6 +826,11 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/listings/index.html</loc>
+  <lastmod>2013-05-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/posts/</loc>
   <lastmod>2013-05-24</lastmod>
   <priority>0.5000</priority>
  </url>

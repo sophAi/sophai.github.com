@@ -1,12 +1,14 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 19:54:14
+.. date: 20130529 15:01:43
 .. tags: 
 .. link: 
-.. description: Created at 2013-04-19 13:19:53
+.. description: Created at 20130419 13:19:53
 
 .. 請記得加上slug，會以slug名稱產生副檔名為.html的文章
 .. 同時，別忘了加上tags喔!
+
+.. cv.rsy暫存檔，主要檔案放在arch_2013/stories/cv.rst
 
 *********************************************
 Curriculum Vitae - Po-Jen Hsu / 許伯任
